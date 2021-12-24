@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages1
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pink-mimi/pink-mimi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
